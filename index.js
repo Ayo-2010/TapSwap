@@ -1,6 +1,6 @@
 let coin = document.getElementsByTagName("img")
-let coin1 = document.querySelector("h1")
-let coin2 = document.querySelector("h3")
+let coin1 = document.querySelector("#h1")
+let coin2 = document.querySelector("#h3")
 let swap1 = 0;
 
 
